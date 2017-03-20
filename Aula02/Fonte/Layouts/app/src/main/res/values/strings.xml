@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="btn_salvar">Salvar Dados</string>
+    <string name="txt_conteudo">Meu conteúdo</string>
+</resources>
